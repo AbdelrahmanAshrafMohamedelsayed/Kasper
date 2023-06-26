@@ -1,4 +1,4 @@
-# CSS TIPS Template uno
+# CSS TIPS Template due
 
 ## 1. responsive design
 
